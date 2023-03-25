@@ -9,7 +9,7 @@ public class Application {
 
 	public static void main(String[] args) {
 
-		int i=10;
+		int j=200;
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 		System.out.println(context.getClass().getName());
 		System.out.println("beans load:"+context.getBeanDefinitionCount());
