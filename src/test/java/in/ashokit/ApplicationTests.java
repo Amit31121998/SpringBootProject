@@ -6,6 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class ApplicationTests {
 
+
+int k=800;
 	@Test
 	void contextLoads() {
 	}
