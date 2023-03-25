@@ -9,5 +9,17 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void contextLoads() {
+	}
+
+@Test
+	void contextLoads() {
+	}
+
+@Test
+	void contextLoads() {
+	}
+
 
 }
